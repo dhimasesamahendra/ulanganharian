@@ -1,5 +1,5 @@
 
-public class lima {
+public class enam {
     public static void main(String[] args) {
         int N=5, K=10, j, i;
         int[] DATA = {4, 1, 8, 7, 4};
